@@ -1,4 +1,8 @@
+# THIS PACKAGE IS DEPRECATED. USE [lambda-env](https://github.com/Hoishin/lambda-env).
+
 # lambda-emulator [![Build Status](https://travis-ci.org/Hoishin/lambda-emulator.svg?branch=master)](https://travis-ci.org/Hoishin/lambda-emulator) [![codecov](https://codecov.io/gh/Hoishin/lambda-emulator/badge.svg?branch=master)](https://codecov.io/gh/Hoishin/lambda-emulator?branch=master)
+
+---
 
 > Emulate AWS Lambda + DynamoDB application and run tests
 
